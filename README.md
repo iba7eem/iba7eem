@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahemfathytor)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/spxd007)
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hacker-style.gif?raw=true" alt="Hacker Vibes" width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Hacker Vibes" width="40%"/><br> 
 
 </div>
 
