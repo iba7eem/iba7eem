@@ -13,6 +13,11 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=ibrahemfathy&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibrahemfathy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/Ibrahem-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201124853430)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FyasGLBSD/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahemfathytor)
+
 </div>
 
 <hr></hr>
