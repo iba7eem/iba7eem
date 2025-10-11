@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
      alt="Hello Coders" width="60%"/> <br>
 
-<h3>I’m Ibrahem Fathy</h3>
+<h3>Ibrahem Fathy</h3>
 
 <!-- 🌐 روابط التواصل -->
 <a href="https://wa.me/201124853430">
