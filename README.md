@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
      alt="Hello Coders" width="60%"/> <br>
 
-<!-- ✨ النص الجديد تحت الـ GIF -->
+<!-- ✨ الاسم بعد التعديل -->
 <h3 style="font-size: 28px; color: #00BFFF; font-family: 'Courier New', monospace;">
 I'm Ibrahem Fathy
 </h3>
