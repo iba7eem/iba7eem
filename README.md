@@ -6,7 +6,7 @@
 
 <!-- ✨ الاسم بعد التعديل -->
 <h3 style="font-size: 28px; color: #00BFFF; font-family: 'Courier New', monospace;">
-I'm Ibrahem Fathy
+Ibrahem Fathy
 </h3>
 
 <!-- 🌐 روابط التواصل -->
