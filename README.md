@@ -1,37 +1,34 @@
-<div align="center" width="50" style="background-color:#0d1117; padding: 25px; border-radius: 20px;">
+<div align="center">
 
-<!-- 👋 GIF الأول: Hello Coders + I'm Ibrahem Fathy -->
-<img src="https://github.com/ibrahem-prog/ibrahem-prog/blob/main/images/ibrahemfathy_hello.gif?raw=true" 
-     alt="Hello Coders - I'm Ibrahem Fathy" width="60%" style="border-radius: 15px;"/> <br>
+<!-- 👋 GIF الأول: Hello Coders -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
+     alt="Hello Coders" width="60%"/> <br>
 
-<!-- ✨ الاسم -->
-<h3 style="font-size: 28px; color: #00BFFF; font-family: 'Courier New', monospace; margin-top: 10px;">
-Ibrahem Fathy
-</h3>
+<h3>I’m Ibrahem Fathy</h3>
 
 <!-- 🌐 روابط التواصل -->
-<p>
-  <a href="https://wa.me/201124853430">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1FyasGLBSD/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ibrahemfathytor">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/spxd007">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-  </a>
-</p>
+<a href="https://wa.me/201124853430">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/1FyasGLBSD/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ibrahemfathytor">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+<a href="https://t.me/spxd007">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+</a>
+
+<br><br>
 
 <!-- 👨‍💻 GIF الثاني -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
-     alt="Hacker Vibes" width="40%" style="border-radius: 10px; margin-top: 15px;"/>
+     alt="Hacker Vibes" width="40%"/><br>
 
 </div>
 
-<hr style="border: 0; height: 1px; background-color: #30363d; margin: 30px 0;"/>
+---
 
 ### 🛠️ Tools & Technologies
 
