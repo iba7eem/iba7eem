@@ -1,8 +1,9 @@
 <div align="center" width="50">
 
-<!-- 👋 GIF الأول: Hello Coders -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" 
-     alt="Hello Coders" width="60%"/> <br>
+<!-- 👋 GIF الجديد: Hello Coders + I'm Ibrahem Fathy -->
+<img src="https://github.com/ibrahem-prog/ibrahem-prog/blob/main/images/ibrahemfathy_hello.gif?raw=true" 
+     alt="Hello Coders - I'm Ibrahem Fathy" width="60%"/> <br>
+
 
 <!-- ✨ الاسم بعد التعديل -->
 <h3 style="font-size: 28px; color: #00BFFF; font-family: 'Courier New', monospace;">
